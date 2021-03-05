@@ -4,4 +4,4 @@
 - Palabras
 - Vectores
 - Matrices
-
+- MySQL
