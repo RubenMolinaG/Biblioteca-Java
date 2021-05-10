@@ -1,5 +1,5 @@
-# Biblioteca Java - Rubén Molina.
-### Se aceptan solicitudes para añadir nuevas clases y métodos.
+# Biblioteca Java - IES Villaverde.
+### Conjunto de clases y métodos de los alumnos del IES Villaverde.
 
 - Palabras
 - Vectores
